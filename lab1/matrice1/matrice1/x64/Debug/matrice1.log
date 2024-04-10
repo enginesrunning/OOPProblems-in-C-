@@ -1,0 +1,6 @@
+﻿  functions.cpp
+C:\Users\Cristi\source\repos\matrice1\matrice1\functions.cpp(26,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cristi\source\repos\matrice1\matrice1\functions.cpp(41,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  matrice1.vcxproj -> C:\Users\Cristi\source\repos\matrice1\x64\Debug\matrice1.exe
